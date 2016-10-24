@@ -26,7 +26,7 @@ echo "================================================="
 
 
 #下载支持的bin列表
-curl "https://github.com/iliuyuyang/ShadowsocksforVPS/blob/master/serverspeeder/serverspeederbin.txt" -o serverspeederbin.txt || { echo "文件下载失败，自动退出，可以前往http://www.91yun.org/serverspeeder91yun手动下载安装包";exit 1; }
+curl "https://raw.githubusercontent.com/iliuyuyang/ShadowsocksforVPS/master/serverspeeder/serverspeederbin.txt" -o serverspeederbin.txt || { echo "文件下载失败，自动退出，可以前往http://www.91yun.org/serverspeeder91yun手动下载安装包";exit 1; }
 
 
 

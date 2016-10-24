@@ -14,7 +14,7 @@ CHECKSYSTEM=http://soft.91yun.org/soft/serverspeeder/checksystem.php
 BIN=downloadurl
 
 
-release=Debian ver1=7 ver2=3.12-1-amd64 ver3=x64 ver4=3.10.61.0
+release=CentOS ver1=6.5 ver2=4.4.0-x86_64-linode63 ver3=x64 ver4=3.10.61.0
 
 echo "================================================="
 echo "操作系统：$release "
